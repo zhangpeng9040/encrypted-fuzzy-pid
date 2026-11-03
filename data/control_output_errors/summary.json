@@ -1,0 +1,23 @@
+{
+  "encrypted_run": {
+    "mode": "ckks_poly",
+    "full_course_steps": 1229,
+    "requests": 1229,
+    "matched_recorded_outputs": 1228,
+    "unobserved_output_sequences": [
+      1228
+    ],
+    "matched_fitting_rmse": 0.20949698012659768,
+    "recorded_minus_polynomial_rmse": 1.9068822456728124e-06,
+    "recorded_minus_fuzzy_rmse": 0.20949697950841306,
+    "all_matched_commands_unsaturated": true,
+    "delay_samples": 1,
+    "ckks_raw_error_rmse": 1.9068822456728124e-06,
+    "units": "normalized command units",
+    "input_source": "data/fuzzy_comparison/ckks_poly_trajectory.csv",
+    "interpretation": "Errors evaluated at the same reconstructed input of the original CKKS-Fuzzy-PID full-course run, using saved applied outputs and the original coefficients; no new encryption, fitting, or simulation. The final request has no applied output in the saved trajectory."
+  },
+  "coefficient_sha256": "3e30b5b2c75d701d2b27dfc73f8116ae1fc35ddcf85632d690dcae79cd30a121",
+  "inference_sha256": "b53003cc5684f83f96bade2ec10e14d43ca417febd9033186c2d92237d3bb0ba",
+  "campaign_script_sha256": "5751c9120a17b71c0605f78efb5fdcc62b33f4c2f6dc1e2a710187e0edbe311a"
+}

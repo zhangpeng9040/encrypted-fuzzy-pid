@@ -1,0 +1,2 @@
+﻿controller,completed,steps,requests,RMSE,MAE,Max_Error,Overshoot,mean_ms,p95_ms,p99_ms,max_ms,over100,sample_to_response_over100,mean_server_ms,mean_server_evaluate_ms,mean_encrypt_ms,mean_serialize_envelope_ms,mean_up_bytes,mean_down_bytes,applied_age_samples,skipped_submissions
+pid_packed,True,1232,1232,0.2540128552281512,0.19600081380474507,1.6001087797695306,0.5443344428185313,34.27646249342202,38.547934987582266,62.65902976505468,72.03610008582473,0,0,21.558285146564632,18.883431250571164,3.088288805553351,2.080144229505284,334347.7589285714,235550.5154220779,1,0
